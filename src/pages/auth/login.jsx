@@ -45,7 +45,7 @@ export const Login = () => {
             send
           </button>
         </form>
-        <h1>ajclsm.nklkc</h1>
+      <h1>0000000</h1>
       </div>
     </div>
   );
