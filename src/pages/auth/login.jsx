@@ -45,7 +45,7 @@ export const Login = () => {
             send
           </button>
         </form>
-      <h1>0000000</h1>
+      <h1>Nodirbek</h1>
       </div>
     </div>
   );
